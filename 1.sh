@@ -4,8 +4,9 @@
 git add .
 git config --global user.email "ljf75@segfault.net"
 git config --global user.name "Andy Wozniak"
-#wget -O mp3/baby.mp3 https://mp3app.haoge500.com/upload/rank/20220125/923a430203815af3acca23d0b5d34311.mp3
-git commit -m "Add mp3 file"
+#wget -O mp3/1.mp3 https://mp3app.haoge500.com/mp3/423/422967.mp3
+#https://mp3app.haoge500.com/upload/rank/20220125/923a430203815af3acca23d0b5d34311.mp3
+git commit -m "Add 1.mp3 file"
 #git push --set-upstream origin master
 #https://github.com/ljf74/v
 
